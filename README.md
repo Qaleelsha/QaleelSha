@@ -73,17 +73,6 @@ I am a passionate Computer Science and Engineering undergraduate specializing in
 
 ---
 
-## 📊 GitHub Ecosystem Metrics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=QaleelSha&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="QaleelSha GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QaleelSha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180"/>
-</p>
-
-<p align="left">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=QaleelSha&theme=dark&hide_border=false" alt="GitHub Streak" width="450"/>
-</p>
-
----
 
 ## 🌐 Connect & Collaborate
 
