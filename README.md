@@ -1,18 +1,99 @@
-# 💫 About Me:
-I am a Computer Science undergraduate specializing in Data Science and Machine Learning, with an open minor in Cloud<br>Computing, DevOps and Agile Systems Engineering. Proficient in Python, Java, C and C++. Developed and<br>deployed a semantic search engine using Python, Java Spring Boot, and Elasticsearch, addressing real-world<br>information retrieval challenges. Achieved Runner-Up position at Byte Bash India Hackathon and contributed to<br>production-ready features during a Software Developer Internship at BlueStock FinTech. Strong grasp of Data<br>Structures, Algorithms, and System Design, with a collaborative mindset, attention to detail, and eagerness to<br>innovate in dynamic engineering environments.
+# Hi there, I'm Qaleel Sha Backer 👋
+### Software Engineer | Data Scientist | ML & Cloud Architecture Enthusiast
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/qaleelsha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/qaleel-sha-backer/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/QaleelSha) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22972962) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khaleelshabacker123@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=QaleelSha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=QaleelSha&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=QaleelSha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I am a passionate Computer Science and Engineering undergraduate specializing in **Data Science and Machine Learning**, with an open minor in **Cloud Computing, DevOps, and Agile Systems Engineering**. I bridge the gap between heavy algorithmic data logic and production-ready cloud infrastructures. My focus centers on engineering high-impact, scalable software solutions, building distributed applications, and optimizing automated machine learning pipelines.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=QaleelSha&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Professional Highlights & Milestones
+* 🥈 **Byte Bash India Hackathon:** Secured the **Runner-Up** position by engineering high-performance software solutions under strict timeline constraints.
+* 🛠️ **Production Software Experience:** Contributed to shipping production-ready features, writing scalable components, and optimizing backend systems during my Software Developer Internship at **BlueStock FinTech**.
+* 🌐 **Full-Scale Project Deployment:** Engineered and deployed **HALLAQY**, a high-availability application maintaining **99% uptime** via strategic architectural optimization.
+
+---
+
+## 🛠️ Tech Stack & Domain Expertise
+
+<table>
+  <tr>
+    <td align="center" width="25%"><strong>Languages</strong></td>
+    <td align="center" width="25%"><strong>Frameworks & APIs</strong></td>
+    <td align="center" width="25%"><strong>Data Science & AI</strong></td>
+    <td align="center" width="25%"><strong>Cloud, DevOps & Databases</strong></td>
+  </tr>
+  <tr>
+    <td valign="top">
+      • Python <br/>
+      • C++ <br/>
+      • Java (OpenJDK) <br/>
+      • JavaScript / TypeScript <br/>
+      • C <br/>
+      • SQL
+    </td>
+    <td valign="top">
+      • Node.js / Express <br/>
+      • Django <br/>
+      • FastAPI / Flask <br/>
+      • Java Spring Boot <br/>
+      • React <br/>
+      • Bootstrap / HTML5
+    </td>
+    <td valign="top">
+      • PyTorch / TensorFlow <br/>
+      • Scikit-Learn <br/>
+      • Pandas / NumPy <br/>
+      • Matplotlib / SciPy <br/>
+      • ONNX Model Parsing <br/>
+      • K-Means / RFM Analysis
+    </td>
+    <td valign="top">
+      • AWS (EC2, S3, RDS, Lambda) <br/>
+      • Amazon EventBridge (Cron) <br/>
+      • Application Load Balancers <br/>
+      • Docker / DevOps Pipeline <br/>
+      • PostgreSQL / MySQL <br/>
+      • MongoDB / Elasticsearch
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📂 Highlighted Architecture & Data Engineering Projects
+
+### ☁️ Cloud-Native Multi-Team Report Processing Platform
+* **Architecture:** Formulated a completely decoupled backend on **AWS EC2** behind an **Application Load Balancer (ALB)**, offloading transactional batch data handling to serverless **AWS Lambda** workers triggered via **EventBridge Cron schedules**.
+* **Data Layer:** Designed and implemented a structured **PostgreSQL relational database** in **Amazon RDS** using automated cascading logic and cross-entity mappings alongside isolated **Amazon S3 storage hierarchies**.
+
+### 🔍 Distributed Semantic Search Engine
+* **Architecture:** Formulated a full-scale information retrieval architecture using **Python**, **Java Spring Boot**, and **Elasticsearch** to index and map complex document embeddings, drastically improving query precision and system latency.
+
+### 📊 Flight Delay Prediction & E-Commerce Churn Pipelines
+* **Machine Learning:** Engineered an end-to-end data pipeline integrating structured user data, preprocessing massive data arrays using **Pandas/NumPy**, and applying **K-Means Clustering** and **RFM metrics** to isolate churn indicators and forecast workflow latency.
+
+---
+
+## 📊 GitHub Ecosystem Metrics
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=QaleelSha&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="QaleelSha GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QaleelSha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180"/>
+</p>
+
+<p align="left">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=QaleelSha&theme=dark&hide_border=false" alt="GitHub Streak" width="450"/>
+</p>
+
+---
+
+## 🌐 Connect & Collaborate
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/qaleel-sha-backer/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/QaleelSha)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22972962)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/qaleelsha)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khaleelshabacker123@gmail.com)
+
+---
+<p align="right">
+  <img src="https://visitcount.itsvg.in/api?id=QaleelSha&icon=0&color=0" alt="Visitor Count" />
+</p>
