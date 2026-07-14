@@ -242,38 +242,6 @@ class QaleelShaBacker:
 
 </div>
 
-<details>
-<summary><b>⚙️ Enable the snake — one-time GitHub Actions setup</b></summary>
-<br>
-
-Create `.github/workflows/snake.yml` in your `Qaleelsha/Qaleelsha` profile repo:
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  snake:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Qaleelsha
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
 ---
 
 <div align="center">
